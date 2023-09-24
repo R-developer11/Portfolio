@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (window.scrollY > 100) {
         nav.style.backgroundColor = "rgba(220, 220, 220, 0.8)";
         nav.style.padding = "10px 0";
-        nav.style.margin = "14px";
+        nav.style.margin = "13px";
         nav.style.borderRadius = "15px";
       } else {
         nav.style.backgroundColor = "transparent";
